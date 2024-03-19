@@ -1,2 +1,4 @@
 .DS_Store
 xgboost/train.csv
+lenet/train.p
+lenet/data/training.npz
